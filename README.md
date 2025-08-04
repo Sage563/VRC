@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 > **Note:** This project likely depends on libraries for speech recognition and text-to-speech.DO not install the packages when run it auto installs
 ## Installation
 
-1.  **Clone the repository (replace `Sage563` with your actual GitHub username):**
+1.  **Clone the repository :**
     ```bash
     git clone https://github.com/Sage563/VRC.git
     cd VRC

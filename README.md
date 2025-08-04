@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 *   `pip` (Python package installer)
 *   A working microphone connected to your system.
 
-> **Note:** This project likely depends on libraries for speech recognition and text-to-speech.DO not install the packages when run it auto installs
+> **Note:** This project depends on libraries for speech recognition and text-to-speech.Do not install the packages when run it auto installs
 ## Installation
 
 1.  **Clone the repository :**

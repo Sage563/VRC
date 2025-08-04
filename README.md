@@ -12,6 +12,8 @@ A proof-of-concept application demonstrating user authentication (sign-up and si
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
+- [The api](#the-api)
+- 
 
 ---
 
@@ -65,12 +67,14 @@ Follow the audible prompts to either create a new account or sign in.
 The application utilizes a speech recognition library to capture and interpret voice commands. It guides the user through the sign-up or sign-in flow, prompting for information like a username and password\voice. It then uses text-to-speech to provide feedback and instructions and uses a voice regnoztion ai model to
 see if its the thing as the users voice and words.
 
+
 ## License 
 Vist Licencense File
 
 
 ## The api
 We use a model from remsembler or faster-whispher to check your voice and words
+and for the AI vocie detection the model is on hugging face :"MattyB95/AST-VoxCelebSpoof-Synthetic-Voice-Detection"
 
 
 ## Contributing
